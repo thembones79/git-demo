@@ -1,0 +1,23 @@
+{
+  "name": "git-refresher",
+  "version": "1.0.0",
+  "description": "Common Git commands And stuff... ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thembones79/git-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thembones79/git-demo/issues"
+  },
+  "homepage": "https://github.com/thembones79/git-demo#readme",
+  "devDependencies": {
+    "jest": "26.1.0"
+  }
+}
