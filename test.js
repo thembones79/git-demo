@@ -1,7 +1,7 @@
 const returnOne = require("./main");
 
-describe("ReturnOne test", () => {
-  it("returns one", () => {
-    expect(returnOne()).toEqual(1);
+describe("ReturnTwo test", () => {
+  it("returns two", () => {
+    expect(returnOne()).toEqual(2);
   });
 });
